@@ -1,0 +1,10 @@
+.parent {
+    display: flex;
+    flex-direction: column;
+    background-color: red;
+    justify-content: center;
+    align-items: center;
+    width: 460px;
+    height: 460px;
+
+}
